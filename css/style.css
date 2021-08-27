@@ -1,0 +1,229 @@
+@font-face{
+    font-family: 'vazir';
+  src: url('../fonts/Vazir-Bold.eot') format('eot'),
+       url('../fonts/Vazir-Bold.ttf')  format('ttf'), 
+       url('../fonts/Vazir-Bold.woff') format('woff'), 
+       url('../fonts/Vazir-Bold.woff2') format('woff2');
+}
+body, input{
+    font-family: 'vazir';
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(../images/coffee-discovery-1x.jpg);
+    height: 115.3vh;
+  position: relative;
+}
+nav{
+    background-color: rgba(0, 0, 0, .2);
+    height: 100px;
+    width: 100%;
+}
+nav .hamber-icon img{
+    width: 100px;
+   display: none;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+}
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    width: 50%;
+    float: right;
+    line-height: 90px;
+}
+nav ul li {
+   margin-left: 25px;
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+  
+}
+.logo{
+    float: right;
+    width: 50%;
+    text-align: left;
+}
+.logo img{
+    width: 130px;
+}
+.header-coffe {
+    position: absolute;
+    top: 40%;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+.main-part{
+padding: 60px 0;
+height: 300px;
+}
+.main-image{
+    float: right;
+    width: 50%;
+   
+}
+.main-image img{
+    width: 65%;
+}
+.main-text{
+    float: right;
+    width: 50%;
+    text-align: center;
+}
+.main-text h1{
+margin-top: 50px;
+}
+.main-text p{
+    width: 470px;
+    margin: auto;
+    
+}
+.main-part2{
+    background-image: url(../images/wp8210000.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 300px;
+    padding: 100px 0;
+    background-attachment: fixed;
+}
+.main-sec{
+    text-align: center;
+    padding: 80px 0;
+    color: rgb(230, 224, 58);
+    font-size: 19px;
+}
+.main-sec p{
+    width: 480px;
+    margin: auto;
+}
+.main-part3{
+    padding: 100px 0;
+    height: 390px;
+}
+.main-fehrest{
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+.main-fehrest p{
+ width: 390px;
+ margin: auto;
+ margin-bottom: 15px;
+ line-height: 2;
+}
+.main-fehrest a{
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid red;
+    
+}
+.main-images{
+    width: 50%;
+    float: right;
+    text-align:right;
+}
+.main-images ul{
+    width: 100%;
+    list-style: none;
+}
+.main-images ul li{
+   width: 50%;
+  float: right;
+}
+.main-images img{
+    width: 200px;
+    height:200px;
+}
+.main-hot{
+background-image: url(../images/1.jpg);
+width: 100%;
+height: 300px;
+padding: 140px 0;
+background-repeat:no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+}
+.main-hot .main-hot-des{
+    text-align: center;
+}
+.part-khoshmaze{
+    padding: 80px 0;
+    overflow: auto;
+    width: 100%;
+}
+.khoshmaze-des{
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+.khoshmaze-des p{
+    width: 450px;
+    margin: auto;
+}
+.khoshmaze-img {
+    width: 50%;
+    float: right;
+
+}
+.khoshmaze-img  img{
+   width: 170px;
+   height: 250px;
+   padding-right: 40px;
+ 
+}
+.khoshmaze-img .img-left{
+    margin-left: 2px;
+}
+.footer-back{
+    background-color: black;
+    height: 400px;
+}
+.about-us{
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding-top: 65px;
+}
+.about-us h1{
+    font-size: 18px;
+}
+.about-us p{
+    width: 450px;
+    margin: auto;
+}
+.news-soial{
+    width: 60%;
+    text-align: center;
+    height: 100px;
+    margin: auto;
+}
+.news-soial .news{
+    width: 50%;
+    float: right;
+
+
+}
+.news-soial .news h4{
+    color: white;
+    
+}
+.souial{
+    width: 50%;
+    float: right;
+    color: white;
+}
+.souial a{
+    padding: 0 6px;
+    color: white;
+}

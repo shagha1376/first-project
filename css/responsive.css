@@ -1,0 +1,190 @@
+@media screen and (max-width: 1210px){
+.main-text h1{
+    font-size: 20px;
+}
+.main-text p{
+    font-size: 14px;
+    width: 380px;
+}
+.main-image img {
+    margin-right: 45px;
+    margin-top: 25px;
+}
+.main-images img {
+    width: 174px;
+    height: 200px;
+}
+.khoshmaze-des h1 {
+   
+    font-size: 19px;
+}
+.khoshmaze-des p {
+   
+    font-size: 13px;
+    width: 400px;
+}
+.khoshmaze-img img {
+    width: 170px;
+    height: 230px;
+    padding-right: 25px;
+}
+}
+@media screen and (max-width: 992px){
+  
+    nav .hamber-icon{
+        width: 50%;
+        float: right;
+    }
+    nav .hamber-icon img{
+        width: 100px;
+       display: inline;
+
+    }
+    nav ul li {
+        margin-left: 25px;
+         display: none;
+     }
+     .main-part {
+        padding: 3px 0;
+        height: 500px;
+     }
+     .main-text{
+         width: 100%;
+         margin-bottom: 25px;
+     }
+     .main-image{
+         width: 100%;
+         text-align: center;
+     }
+     .main-image img{
+         width: 360px;
+         margin: auto;
+     }
+     .main-fehrest {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .main-images {
+        width: 100%;
+        
+    }
+    .main-part3 {
+        padding: 20px 0;
+        height: 680px;
+    }
+    .main-images img {
+        width: 250px;
+        height: 200px;
+    }
+    .main-hot .main-hot-des h1{
+        font-size: 25px;
+    }
+    .main-hot .main-hot-des p{
+        font-size: 15px;
+        width: 400px;
+        margin: auto;
+    }
+    .part-khoshmaze {
+        padding: 55px 0;
+        overflow: auto;
+        width: 100%;
+    }
+    .khoshmaze-des {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .khoshmaze-img {
+        width: 100%;
+        text-align: center;
+       
+    }
+}
+@media screen and (max-width: 768px){
+    .main-sec h1{
+        font-size: 27px;
+    }
+    .main-sec p {
+        width: 400px;
+        margin: auto;
+    }
+    .main-images {
+        text-align: center;
+    }
+    .main-images ul li {
+        width: 100%;
+        
+    }
+    .main-images ul li img {
+        width: 75%;
+        /* text-align: center; */
+        /* margin: auto; */
+        margin-left: 75px;
+    }
+    .main-part3 {
+        padding: 20px 0;
+        height: 1120px;
+    }
+    .about-us p {
+        width: 350px;
+        margin: auto;
+        font-size: 12px;
+    }
+    .news-soial .news h4 {
+        color: white;
+        font-size: 12px;
+    }
+     input {
+        font-family: 'vazir';
+        direction: rtl;
+        margin: 0;
+        padding: 0;
+        width: 116px;
+        font-size: 9px;
+    }
+    .news-soial .souial h4 {
+        color: white;
+        font-size: 12px;
+    }
+    .souial a i {
+       font-size: 10px;
+    }
+  
+}
+@media screen and (max-width: 556px){
+    .header-coffe h2{
+        font-size: 1.3em;
+    }
+    .header-coffe p{
+        font-size: 15px;
+        
+    }
+    .main-sec h1{
+        font-size: 23px;
+    }
+    .main-sec p {
+        width: 300px;
+        margin: auto;
+    }
+    .khoshmaze-des p {
+        font-size: 10px;
+        width: 300px;
+    }
+    .khoshmaze-des h1 {
+   
+        font-size: 15px;
+    }
+    .news-soial .news {
+        width: 100%;
+        text-align: center;
+    }
+    .souial {
+        width: 100%;
+        text-align: center;
+       
+    }
+    .footer-back {
+        background-color: black;
+        height: 360px;
+    }
+}
